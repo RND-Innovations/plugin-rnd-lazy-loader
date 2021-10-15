@@ -1,7 +1,7 @@
 # plugin-rnd-lazy-loader
 A plugin to improve image loading that helps SEO and save bandwidth.
 
-**Version: 1.0.0**
+**Version: 1.1.0**
 
 # Why we use this plugin?
 
